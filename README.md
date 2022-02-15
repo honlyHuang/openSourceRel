@@ -14,6 +14,10 @@
 - 百度开源；微信号: baiduopensource；因为开源，所以简单
 - 华为开源；微信号: Huawei_OpenSource；华为开源文化宣传，活动动态推广。
 
+## 个人开源公众号
+
+- 开源之道；微信号：微信号: open-source-way，简介：致力于开源相关思想、知识和价值的探究！。（适兕，《开源之迷》作者）
+
 ## 开源书籍
 
 - [《开源之迷》](https://mp.weixin.qq.com/s/aEM5q-JPp06mO0ZpfEbREw)作者：适兕；建盛（适兕）是一位真正意义上的布道师。
